@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5MQw8nUyXoHXewNTTpxWKK9Ewd9jx2R1UTERBTcyleIZn1pJ93YqfwSd5SuCJS7kqUVYHMab+YqmAlw9PZczg==",
+  "success": true,
+  "projectFilePath": "D:\\login\\loginatubaw\\Login and Password\\Login and Password.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
